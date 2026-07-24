@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+I am a software developer, and I am passionate about creating visually appealing and user-friendly websites.
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like PHP & Laravel.
